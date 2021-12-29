@@ -1,5 +1,4 @@
-# Solidworks
-![Duct](https://user-images.githubusercontent.com/96828736/147669865-e029f68f-7a58-4154-b77b-ac6caf0ea1c0.png)
+# Ansys Workbench
 ![Deformation_img](https://user-images.githubusercontent.com/96828736/147669968-b70cd29e-af7a-495f-9a45-f6b04bfaf94e.png)
 ![Temperature_img](https://user-images.githubusercontent.com/96828736/147669982-834adc5a-c509-4272-ab5a-d0357b3c13b7.png)
 ![Heat Flux_img](https://user-images.githubusercontent.com/96828736/147669996-41012146-721d-4180-a47c-ff7ba690d40d.png)
